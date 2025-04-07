@@ -1,0 +1,6 @@
+@AndreyAPI_HostAddress = http://localhost:5069
+
+GET {{AndreyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
